@@ -25,4 +25,9 @@ public interface ServiceDemo1 {
 	 *eclipse删除 
 	 */
 	void deletePig();
+
+	/**
+	 * idea删除1
+	 */
+	void deletePig1();
 }
