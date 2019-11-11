@@ -15,4 +15,9 @@ public interface ServiceDemo1 {
 	 * 查询pig的抽象方法
 	 */
 	void selectPig();
+
+	/**
+	 * 修改
+	 */
+	void updatePig();
 }
