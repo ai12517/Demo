@@ -20,4 +20,9 @@ public interface ServiceDemo1 {
 	 * 修改
 	 */
 	void updatePig();
+	
+	/**
+	 *eclipse删除 
+	 */
+	void deletePig();
 }
