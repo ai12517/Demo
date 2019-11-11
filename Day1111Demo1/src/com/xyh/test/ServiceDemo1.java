@@ -30,4 +30,9 @@ public interface ServiceDemo1 {
 	 * idea删除1
 	 */
 	void deletePig1();
+
+	/**
+	 * 这是master2
+	 */
+	void deletePig2();
 }
