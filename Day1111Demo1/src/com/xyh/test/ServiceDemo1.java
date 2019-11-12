@@ -40,4 +40,9 @@ public interface ServiceDemo1 {
 	 * 这是master1
 	 */
 	void deletePig3();
+
+	/**
+	 * 这是分支
+	 */
+	void deletePig5();
 }
